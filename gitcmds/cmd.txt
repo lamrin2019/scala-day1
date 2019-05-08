@@ -1,0 +1,2 @@
+git config --local credential.helpers ""
+git push origin master
